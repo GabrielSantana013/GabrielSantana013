@@ -1,8 +1,8 @@
 ### Olá, sejam bem-vindos ao meu perfil no GitHub! 😎🌹
 
-- 🌱 Atualmente, cursando ADS na Fatec Rubens Lara.
+- 📖 Atualmente, cursando ADS na Fatec Rubens Lara.
 - 📘 Estou aprendendo a linguagem C.
-- 👯 Estou a procura de um estágio para melhorar as  minhas habilidades.
+- ⚡ Estou a procura de um estágio para melhorar as  minhas habilidades.
 
 
 ##
