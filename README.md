@@ -11,9 +11,7 @@
 
 <div> 
   <div style="display: inline_block"><br>
-  <img align="center-Cight="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-                                                                                                                                
-
+  <img align="center-Cight="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">                                                                                                                                
 <h1>Meus status no GitHub:</h1>
 
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
