@@ -2,7 +2,7 @@
 
 - 📖 Atualmente, cursando ADS na Fatec Rubens Lara.
 - 📘 Estou aprendendo a linguagem C e Java.
-- ⚡ Estou a procura de um estágio para melhorar as  minhas habilidades.
+- ⚡ Estou em busca de um estágio para aprimorar minhas habilidades.
 
                                                                                                                                 
   <h1>Minhas Habilidades:</h1>  
