@@ -14,7 +14,12 @@
   <img align="center-Cight="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">                                                                                                                                
 <h1>Meus status no GitHub:</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
+<div style="display: inline_block">
+
+<img align = "center" src="https://github-readme-stats-swart-rho.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
+
+<img  align = "top" width=40% src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=GabrielSantana013&show_icons=true&theme=radical&layout=compact" />
+
 </div>
                                                                                                                                          
  <h1>Entre em contato comigo!</h1>  
