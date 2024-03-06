@@ -1,7 +1,7 @@
 <h1>Olá, sejam bem-vindos ao meu perfil no GitHub! 😎🌹</h1>
 
-- 📖 Atualmente, cursando ADS na Fatec Rubens Lara.
-- 📘 Estou aprendendo a linguagem C e Java.
+- 📖 Atualmente, cursando Ciência da Computação na FEI.
+- 📘 Estou aprendendo a linguagem Python e Java.
 - ⚡ Estou em busca de um estágio para aprimorar minhas habilidades.
 
                                                                                                                                 
