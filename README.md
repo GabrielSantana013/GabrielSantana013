@@ -32,7 +32,7 @@
 
 <div style="display: inline-block">
 <img float = "left" width=500 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
-<img float = "right" width=380 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=GabrielSantana013&show_icons=true&theme=radical&layout=compact" />
+<img float = "top" width=380 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=GabrielSantana013&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <div align = "center">                                                                                                                                         
