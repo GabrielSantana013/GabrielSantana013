@@ -30,8 +30,8 @@
     
 <h3> Meus status no GitHub:</h3>
 
-<div style="display: inline-block">
-<img float = "left" width=480 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
+<div style="display: inline">
+<img float = "left" width=500 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api?username=GabrielSantana013&show_icons=true&theme=radical&include_all_commits=true">
 <img float = "top" width=380 heigth=500 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=GabrielSantana013&show_icons=true&theme=radical&layout=compact" />
 </div>
 
