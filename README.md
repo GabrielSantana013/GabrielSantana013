@@ -4,16 +4,27 @@
 ---
 <br><br><br>
 
-<div align="left">
-  <h3>Sobre mim:</h3>
-  <p>
- 📖 Atualmente, cursando Ciência da Computação na FEI.<br>
- 📘 Estou aprendendo as linguagens: Python, C++, HTML, CSS e JS.<br>
- ⚡ Estou em busca de um estágio para aprimorar minhas habilidades.<br>
- ⚡ Estudando para participar da Maratona de Programação!<br>
-  </p>
-</div>
-<br>
+```cpp
+
+#include <iostream>
+
+using namespace std;
+
+class Gabriel{
+
+public:
+  string Name = "Gabriel Santana Dias";
+  int Age = 19;
+  string localizacao[3] = {"Brazil", "São Paulo", "Santos"};
+
+};
+
+int main(){
+  cout <<"I'm trying to became a great programmer!"<<endl;
+  return 0;
+}
+```
+
                                                                                                                              
   <h3>Skills 🔥</h3>
                                                                                                                                 
