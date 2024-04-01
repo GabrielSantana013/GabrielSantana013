@@ -1,6 +1,6 @@
 <img width = "100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00bfbf&&text=Gabriel%20Santana%20Dias&descSize=2&fontSize=50&reversal=false&fontColor=ffffff&textBg=false&descAlign=53&fontAlign=50&fontAlignY=40"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Santana+Dias;I'm+19+years+old;I+am+from+Santos,+SP,+Brazil;I+study+Computer+Science+at+FEI;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Santana+Dias.;I'm+19+years+old.;I'm+from+Santos,+SP,+Brazil.;I+study+Computer+Science+at+FEI.;Welcome!+:%29)](https://git.io/typing-svg)
 ---
 <br><br><br>
 
@@ -15,7 +15,7 @@ class Gabriel{
 public:
   string Name = "Gabriel Santana Dias";
   int Age = 19;
-  string localizacao[3] = {"Brazil", "São Paulo", "Santos"};
+  string locale[3] = {"Brazil", "São Paulo", "Santos"};
 
 };
 
