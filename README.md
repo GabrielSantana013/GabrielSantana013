@@ -10,18 +10,21 @@
 
 using namespace std;
 
-class Gabriel{
+class Programmer{
+
+private:
+    string Name;
+    int Age;
+    string locale;
 
 public:
-  string Name = "Gabriel Santana Dias";
-  int Age = 19;
-  string locale[3] = {"Brazil", "São Paulo", "Santos"};
-
+    Programmer(string name, int Age, string Locale);
 };
 
 int main(){
-  cout <<"I'm trying to became a great programmer!"<<endl;
-  return 0;
+    Programmer gabriel("Gabriel", 19, "Sao Bernardo do Campo - SP");
+    cout <<"I'm trying to became a great programmer!"<<endl;
+    return 0;
 }
 ```
 
