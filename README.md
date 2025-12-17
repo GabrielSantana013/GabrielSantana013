@@ -29,17 +29,27 @@ int main(){
 ```
 
                                                                                                                              
-  <h3>Skills 🔥</h3>
-                                                                                                                                
-  <div style="display: inline-block"><br>
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> 
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"> 
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain.svg">
-  <img align="center" width="50"src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
-</div>
-<br>
+<h3>Skills 🔥</h3>
+
+<h4>⚙️ Backend</h4>
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
+
+<h4>🎨 Frontend</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+
+<h4>🗄️ Databases</h4>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+
+<h4>🛠️ Dev Tools</h4>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+
+<h4>💻 IDEs</h4>
+<img src="https://skillicons.dev/icons?i=idea,vscode" />
+
+<h4>⚡ Low Level </h4>
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+
+
   
     
 <h3>GitHub Stats:</h3>
