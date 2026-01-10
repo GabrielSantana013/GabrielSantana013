@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda 1x por dia (UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,14 +17,15 @@ jobs:
         with:
           github_user_name: GabrielSantana013
 
-          # 🐍 cor da cobrinha (verde)
+          # 🖤 fundo preto (ESSENCIAL pra esse visual)
+          background_color: "#000000"
+
+          # 🐍 cobrinha verde
           color_snake: "#2ecc71"
 
-          # 🟣 cor dos commits (quando a cobrinha passa)
-          color_commits: "#9b59b6"
-
-          # ⬛ quadradinhos do grid (todos pretos)
-          color_dots: "#000000,#000000,#000000,#000000,#000000"
+          # 🎨 níveis dos commits (do mais fraco ao mais forte)
+          # grid quase invisível → commits destacados
+          color_dots: "#111111,#1b1b1b,#2ecc71,#9b59b6,#bb6bd9"
 
           outputs: |
             dist/github-contribution-grid-snake.svg
